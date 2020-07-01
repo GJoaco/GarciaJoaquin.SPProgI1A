@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1593311849 source:c:\users\joaquin garcia\desktop\parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1593311849 c:\users\joaquin garcia\desktop\parcial\utn.h
+
+1593615952 source:c:\users\joaquin garcia\desktop\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"time.h"
+	"utn.h"
+	"pais.h"
+	"funciones.h"
+
+1593613283 c:\users\joaquin garcia\desktop\parcial\linkedlist.h
+
+1593615247 c:\users\joaquin garcia\desktop\parcial\pais.h
+
+1593609930 c:\users\joaquin garcia\desktop\parcial\funciones.h
+
+1593613521 source:c:\users\joaquin garcia\desktop\parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593615220 source:c:\users\joaquin garcia\desktop\parcial\pais.c
+	<stdio.h>
+	<stdlib.h>
+	"pais.h"
+
+1593615487 source:c:\users\joaquin garcia\desktop\parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"pais.h"
+
